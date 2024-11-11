@@ -1,4 +1,4 @@
-# Repository for FaceFinder
+# FaceFinder
 
 Sorting heterogenous datasets with the Haar Cascade. Demonstrates that Haar cascade works on craniofacial eyes. Hyperparameter tuning performed for minimum neighbors.
 
